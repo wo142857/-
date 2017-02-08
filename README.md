@@ -1,5 +1,6 @@
 ## 问题链接
 （注![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)：表示已验证通过；![](http://pics.sc.chinaz.com/Files/pic/faces/2961/06.png)表示未验证；![](http://pics.sc.chinaz.com/Files/pic/faces/2961/942.png)表示有BUG）
+
 1. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[CentOS7下通过yum安装p7zip](http://www.itdadao.com/articles/c15a570144p0.html)，添加yum源
 2. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[rpm包安装过程中依赖问题“libc.so.6 is needed by XXX”解决方法](http://www.cnblogs.com/think3t/p/4165102.html)
 3. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/942.png)[[centos]centos下安装Deepin最新定制的QQ（超级稳定，可以视频聊天）](https://segmentfault.com/a/1190000007963662)
