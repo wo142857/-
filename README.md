@@ -7,6 +7,7 @@
 4. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/942.png)[WineQQ](http://phpcj.org/wineqq/comment-page-2/#comment-855)
 5. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/06.png)[如何在CentOS上安装和使用Wine](http://ghoulich.xninja.org/2016/08/09/install-and-use-wine-on-centos/)
 6. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[linux下方便的使用有道词典](http://blog.csdn.net/qq_21544879/article/details/51290222)
+7. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[server gave HTTP response to HTTPS client](https://github.com/docker/distribution/issues/1874)
 
 ## 书单
 
