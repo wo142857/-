@@ -15,7 +15,7 @@
 
 1. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png) 《马背上的男孩》 by  路伯特·伊萨克森 -- 2017-01-25
 2. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png) 《向死而生》 by  李开复  -- 2017-02-10
-3. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png) 《自由独行》 by 贾平凹  -- 2017-02-13
+3.![](http://pics.sc.chinaz.com/Files/pic/faces/2961/942.png) 《自由独行》 by 贾平凹  -- 2017-02-13
 
 ## 技术文档
 1. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[Docker —— 从入门到实践](https://www.gitbook.com/book/yeasy/docker_practice/details)
