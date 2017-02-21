@@ -20,4 +20,4 @@
 ## 技术文档
 1. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[Docker —— 从入门到实践](https://www.gitbook.com/book/yeasy/docker_practice/details)
 2. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[反向代理](https://github.com/moonbingbing/openresty-best-practices/blob/master/ngx/reverse_proxy.md)
-3. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[agentzh's Nginx Tutorials](http://openresty.org/cn/ebooks.html)  by 章亦春  -- 2017-02-22
+3. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[agentzh's Nginx Tutorials](http://openresty.org/cn/ebooks.html)  by agentzh  -- 2017-02-22
