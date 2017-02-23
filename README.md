@@ -1,3 +1,17 @@
+## 书单
+
+（注：![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)表示推荐；![](http://pics.sc.chinaz.com/Files/pic/faces/2961/06.png)表示正在读；![](http://pics.sc.chinaz.com/Files/pic/faces/2961/942.png)表示不推荐）
+
+1. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png) 《马背上的男孩》 by  路伯特·伊萨克森 -- 2017-01-25
+2. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png) 《向死而生》 by  李开复  -- 2017-02-10
+3. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/942.png) 《自由独行》 by 贾平凹  -- 2017-02-13
+
+## 技术文档
+1. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[Docker —— 从入门到实践](https://www.gitbook.com/book/yeasy/docker_practice/details)
+2. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[反向代理](https://github.com/moonbingbing/openresty-best-practices/blob/master/ngx/reverse_proxy.md)
+3. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[agentzh's Nginx Tutorials](http://openresty.org/cn/ebooks.html)  by agentzh  -- 2017-02-22
+4. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/06.png)[nginx-lua-module-zh-wiki](https://github.com/iresty/nginx-lua-module-zh-wiki) -- 2017-02-23
+
 ## 问题链接
 （注：![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)表示已验证通过；![](http://pics.sc.chinaz.com/Files/pic/faces/2961/06.png)表示未验证；![](http://pics.sc.chinaz.com/Files/pic/faces/2961/942.png)表示有BUG）
 
@@ -8,17 +22,3 @@
 5. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[如何在CentOS上安装和使用Wine](http://ghoulich.xninja.org/2016/08/09/install-and-use-wine-on-centos/)
 6. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[linux下方便的使用有道词典](http://blog.csdn.net/qq_21544879/article/details/51290222)
 7. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[server gave HTTP response to HTTPS client](https://github.com/docker/distribution/issues/1874)
-
-## 书单
-
-（注：![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)表示推荐；![](http://pics.sc.chinaz.com/Files/pic/faces/2961/06.png)表示未读；![](http://pics.sc.chinaz.com/Files/pic/faces/2961/942.png)表示不推荐）
-
-1. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png) 《马背上的男孩》 by  路伯特·伊萨克森 -- 2017-01-25
-2. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png) 《向死而生》 by  李开复  -- 2017-02-10
-3. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/942.png) 《自由独行》 by 贾平凹  -- 2017-02-13
-
-## 技术文档
-1. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[Docker —— 从入门到实践](https://www.gitbook.com/book/yeasy/docker_practice/details)
-2. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[反向代理](https://github.com/moonbingbing/openresty-best-practices/blob/master/ngx/reverse_proxy.md)
-3. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[agentzh's Nginx Tutorials](http://openresty.org/cn/ebooks.html)  by agentzh  -- 2017-02-22
-4. [nginx-lua-module-zh-wiki](https://github.com/iresty/nginx-lua-module-zh-wiki) -- 2017-02-23
