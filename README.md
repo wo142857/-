@@ -12,9 +12,9 @@
 3. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[agentzh's Nginx Tutorials](http://openresty.org/cn/ebooks.html)  by agentzh  -- 2017-02-22  [笔记](https://wo142857.github.io/nginx/2017/02/25/Nginx-%E9%85%8D%E7%BD%AE%E6%8C%87%E4%BB%A4%E6%89%A7%E8%A1%8C%E9%A1%BA%E5%BA%8F.html)
 4. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/06.png)[nginx-lua-module-zh-wiki](https://github.com/iresty/nginx-lua-module-zh-wiki) -- 2017-02-23
 5. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[MIME与mime.types](https://my.oschina.net/plutonji/blog/527797) -- 2017-02-23
-### 6. HTTP 协议
 
-  6.1 [HTTP 协议入门](http://www.ruanyifeng.com/blog/2016/08/http.html) -- 2017-02-27
+#### 6. HTTP 协议
+   6.1 [HTTP 协议入门](http://www.ruanyifeng.com/blog/2016/08/http.html) -- 2017-02-27
   
 
 ## 问题链接
