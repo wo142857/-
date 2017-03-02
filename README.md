@@ -17,6 +17,8 @@
     6.1 ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[HTTP 协议入门](http://www.ruanyifeng.com/blog/2016/08/http.html) -- 2017-02-27
     
     6.2 ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[HTTP](https://developer.mozilla.org/zh-CN/docs/Web/HTTP) -- 2017-02-28
+
+7. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/06.png)[openresty 最佳实践](https://moonbingbing.gitbooks.io/openresty-best-practices/content/)
   
 
 ## 问题链接
