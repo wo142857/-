@@ -19,6 +19,8 @@
     6.2 ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[HTTP](https://developer.mozilla.org/zh-CN/docs/Web/HTTP) -- 2017-02-28
 
 7. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/06.png)[openresty 最佳实践](https://moonbingbing.gitbooks.io/openresty-best-practices/content/)
+
+8. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[Nginx 重定向时获取域名](https://segmentfault.com/a/1190000004477106)
   
 
 ## 问题链接
