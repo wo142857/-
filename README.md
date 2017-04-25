@@ -24,7 +24,7 @@
 8. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[Nginx 重定向时获取域名](https://segmentfault.com/a/1190000004477106)
 
 9. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[linux 机器之间 zssh, rz, sz互相传输](https://my.oschina.net/floristgao/blog/364300)
-10. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/942.png)[openresty/lua-resty-core源码学习](https://github.com/openresty/lua-resty-core)
+10. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/06.png)[openresty/lua-resty-core源码学习](https://github.com/openresty/lua-resty-core)
   
 
 ## 问题链接
