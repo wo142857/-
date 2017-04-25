@@ -24,7 +24,7 @@
 8. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[Nginx 重定向时获取域名](https://segmentfault.com/a/1190000004477106)
 
 9. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[linux 机器之间 zssh, rz, sz互相传输](https://my.oschina.net/floristgao/blog/364300)
-10. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/06.png)[openresty/lua-resty-core源码学习](https://github.com/openresty/lua-resty-core)
+10. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/06.png)[openresty/lua-resty-core源码学习](https://github.com/openresty/lua-resty-core)   -- 2017-04-25
   
 
 ## 问题链接
@@ -39,4 +39,4 @@
 7. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[server gave HTTP response to HTTPS client](https://github.com/docker/distribution/issues/1874)
 8. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[CENTOS 7 部署 KUBERNETES](http://www.fangyunlin.com/?p=54)
 9. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[http: server gave HTTP response to HTTPS client 解决办法](http://www.jianshu.com/p/00ac18fce367)
-10. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[centos在yum install报错：Another app is currently holding the yum lock解决方法](http://www.cnblogs.com/jincon/p/3371471.html)   -- 2017-04-25
+10. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[centos在yum install报错：Another app is currently holding the yum lock解决方法](http://www.cnblogs.com/jincon/p/3371471.html)
