@@ -42,3 +42,4 @@
 10. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[centos在yum install报错：Another app is currently holding the yum lock解决方法](http://www.cnblogs.com/jincon/p/3371471.html)
 11. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[centos vpn 连接公司内网](https://serverfault.com/questions/412220/fortinet-ssl-vpn-client-setup-without-gui-on-linux-centos)
 12. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[GitBook 制作 Kindle 电子书详细教程（命令行版）](https://kindlefere.com/post/288.html)
+13. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[vim设置golang语法高亮 （Centos）](http://studygolang.com/articles/7172)
