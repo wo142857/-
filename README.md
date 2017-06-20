@@ -15,7 +15,7 @@
 4. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/06.png)[nginx-lua-module-zh-wiki](https://github.com/iresty/nginx-lua-module-zh-wiki) -- 2017-02-23
 5. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[MIME与mime.types](https://my.oschina.net/plutonji/blog/527797) -- 2017-02-23
 
-6. ### HTTP 协议 ###
+6. #### HTTP 协议 ####
     
     6.1 ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[HTTP 协议入门](http://www.ruanyifeng.com/blog/2016/08/http.html) -- 2017-02-27
     
