@@ -28,6 +28,7 @@
 9. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[linux 机器之间 zssh, rz, sz互相传输](https://my.oschina.net/floristgao/blog/364300)
 10. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/06.png)[openresty/lua-resty-core源码学习](https://github.com/openresty/lua-resty-core)   -- 2017-04-25
 11. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[[K-ON!相关]大小姐的名字与汉字编码的历史](http://keyfc.net/bbs/showtopic-52599.aspx)   -- 2017-06-15
+12. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[ 通俗理解卷积神经网络](http://blog.csdn.net/v_july_v/article/details/51812459)   -- 2017-06-23
 
 ## 问题链接
 （注：![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)表示已验证通过；![](http://pics.sc.chinaz.com/Files/pic/faces/2961/06.png)表示未验证；![](http://pics.sc.chinaz.com/Files/pic/faces/2961/942.png)表示有BUG）
