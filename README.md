@@ -49,3 +49,4 @@
 12. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[GitBook 制作 Kindle 电子书详细教程（命令行版）](https://kindlefere.com/post/288.html)
 13. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[vim设置golang语法高亮 （Centos）](http://studygolang.com/articles/7172)
 14. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[2017 Google hosts 持续更新【更新于:2017-06-16】](https://laod.cn/hosts/2017-google-hosts.html)
+15. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[FAILED to authorize user with PAM (Module is unknown) [Solved]](https://opensource4admin.wordpress.com/2014/07/31/failed-to-authorize-user-with-pam-module-is-unknown-solved/)
