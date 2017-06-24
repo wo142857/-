@@ -28,7 +28,9 @@
 9. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[linux 机器之间 zssh, rz, sz互相传输](https://my.oschina.net/floristgao/blog/364300)
 10. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/06.png)[openresty/lua-resty-core源码学习](https://github.com/openresty/lua-resty-core)   -- 2017-04-25
 11. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[[K-ON!相关]大小姐的名字与汉字编码的历史](http://keyfc.net/bbs/showtopic-52599.aspx)   -- 2017-06-15
-12. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[ 通俗理解卷积神经网络](http://blog.csdn.net/v_july_v/article/details/51812459)   -- 2017-06-23
+12. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[通俗理解卷积神经网络](http://blog.csdn.net/v_july_v/article/details/51812459)   -- 2017-06-23
+13. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[[透析] 卷积神经网络CNN究竟是怎样一步一步工作的？](http://www.jianshu.com/p/fe428f0b32c1)   -- 2017-06-24
+14. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[深度学习 — 反向传播(BP)理论推导](http://www.jianshu.com/p/408ab8177a53)   -- 2017-06-24
 
 ## 问题链接
 （注：![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)表示已验证通过；![](http://pics.sc.chinaz.com/Files/pic/faces/2961/06.png)表示未验证；![](http://pics.sc.chinaz.com/Files/pic/faces/2961/942.png)表示有BUG）
