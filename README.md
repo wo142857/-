@@ -6,7 +6,7 @@
 2. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png) 《向死而生》 by  李开复  -- 2017-02-10
 3. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/942.png) 《自由独行》 by 贾平凹  -- 2017-02-13
 4. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/06.png) 《未来以来》 by 马云  -- 2017-06-16
-4. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/06.png) 《人工智能》 by 李开复  -- 2017-06-16
+4. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png) 《人工智能》 by 李开复  -- 2017-06-16
 
 ## 技术文档
 1. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[Docker —— 从入门到实践](https://www.gitbook.com/book/yeasy/docker_practice/details)
