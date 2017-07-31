@@ -32,6 +32,7 @@
 13. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[[透析] 卷积神经网络CNN究竟是怎样一步一步工作的？](http://www.jianshu.com/p/fe428f0b32c1)   -- 2017-06-24
 14. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[深度学习 — 反向传播(BP)理论推导](http://www.jianshu.com/p/408ab8177a53)   -- 2017-06-24
 15. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[机器学习之特征工程](http://www.csuldw.com/2015/10/24/2015-10-24%20feature%20engineering/)   -- 2017-07-11
+16.  ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[十分钟搞懂什么是CGI](http://www.cnblogs.com/xueweihan/p/5319893.html)
 
 ## 问题链接
 （注：![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)表示已验证通过；![](http://pics.sc.chinaz.com/Files/pic/faces/2961/06.png)表示未验证；![](http://pics.sc.chinaz.com/Files/pic/faces/2961/942.png)表示有BUG）
