@@ -56,3 +56,4 @@
 15. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[FAILED to authorize user with PAM (Module is unknown) [Solved]](https://opensource4admin.wordpress.com/2014/07/31/failed-to-authorize-user-with-pam-module-is-unknown-solved/)
 16. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[解决libc.so.6: version `GLIBC_2.14' not found问题](http://blog.csdn.net/cpplang/article/details/8462768)
 17. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[multipart/form-data 格式的http请求，以及lua构造实现](https://segmentfault.com/a/1190000007977497)
+18. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[CentOS 7 安装 Python3.5 & pip](http://www.jianshu.com/p/8bd6e0695d7f)
