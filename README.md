@@ -35,6 +35,7 @@
 16.  ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[十分钟搞懂什么是CGI](http://www.cnblogs.com/xueweihan/p/5319893.html)  -- 2017-07-31
 17.  ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[Node.js的事件机制](http://www.infoq.com/cn/articles/tyq-nodejs-event)  -- 2017-09-12
 18. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[重新介绍 JavaScript（JS 教程）](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/A_re-introduction_to_JavaScript#) -- 2017-10-30
+19. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[四种常见的 POST 提交数据方式](https://imququ.com/post/four-ways-to-post-data-in-http.html) -- 2017-11-20
 
 ## 问题链接
 （注：![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)表示已验证通过；![](http://pics.sc.chinaz.com/Files/pic/faces/2961/06.png)表示未验证；![](http://pics.sc.chinaz.com/Files/pic/faces/2961/942.png)表示有BUG）
