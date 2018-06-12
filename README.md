@@ -59,3 +59,6 @@
 17. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[multipart/form-data 格式的http请求，以及lua构造实现](https://segmentfault.com/a/1190000007977497)
 18. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[CentOS 7 安装 Python3.5 & pip](http://www.jianshu.com/p/8bd6e0695d7f)
 19. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[CentOS英文环境下使用中文输入法](http://www.linuxdiyf.com/linux/2270.html)
+20. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[MYSQL错误TIMESTAMP column with CURRENT_TIMESTAMP in DEFAULT or ON UPDATE的解决方案](https://blog.csdn.net/trq809135642/article/details/70050742)
+21. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[mysql Access denied for user root@localhost错误解决方法总结(转)](http://www.cnblogs.com/qq78292959/p/3641972.html)
+22. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[luarocks packages where to be installed](http://leafo.net/guides/customizing-the-luarocks-tree.html)
