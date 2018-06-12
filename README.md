@@ -62,3 +62,4 @@
 20. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[MYSQL错误TIMESTAMP column with CURRENT_TIMESTAMP in DEFAULT or ON UPDATE的解决方案](https://blog.csdn.net/trq809135642/article/details/70050742)
 21. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[mysql Access denied for user root@localhost错误解决方法总结(转)](http://www.cnblogs.com/qq78292959/p/3641972.html)
 22. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[luarocks packages where to be installed](http://leafo.net/guides/customizing-the-luarocks-tree.html)
+22. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[SSH login without password](https://linuxconfig.org/passwordless-ssh)
