@@ -7,6 +7,7 @@
 3. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)《自由独行》 by 贾平凹  -- 2017-02-13
 4. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/06.png) 《未来以来》 by 马云  -- 2017-06-16
 4. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png) 《人工智能》 by 李开复  -- 2017-06-16
+5. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png) 《撒哈拉的故事》 by 三毛  -- 2018-06-18
 
 ## 技术文档
 1. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[Docker —— 从入门到实践](https://www.gitbook.com/book/yeasy/docker_practice/details)
