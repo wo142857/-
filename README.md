@@ -63,3 +63,4 @@
 21. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[mysql Access denied for user root@localhost错误解决方法总结(转)](http://www.cnblogs.com/qq78292959/p/3641972.html)
 22. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[luarocks packages where to be installed](http://leafo.net/guides/customizing-the-luarocks-tree.html)
 22. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[SSH login without password](https://linuxconfig.org/passwordless-ssh)
+23. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[centos6.x下安装libreOffice最新版本(http://blog.path8.net/archives/5870.html)
