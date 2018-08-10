@@ -8,6 +8,7 @@
 4. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/06.png) 《未来以来》 by 马云  -- 2017-06-16
 4. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png) 《人工智能》 by 李开复  -- 2017-06-16
 5. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png) 《撒哈拉的故事》 by 三毛  -- 2018-06-18
+6. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png) 《解忧杂货店》 by 东野圭吾  -- 2018-08-08
 
 ## 技术文档
 1. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[Docker —— 从入门到实践](https://www.gitbook.com/book/yeasy/docker_practice/details)
@@ -68,3 +69,4 @@
 24. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[centos6.x下安装libreOffice最新版本](http://blog.path8.net/archives/5870.html)
 25. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[centos 7 通过yum安装dnf 包管理器](https://blog.csdn.net/smilejiasmile/article/details/78445791)
 26. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[git远程分支与本地分支合并](https://blog.csdn.net/loongshawn/article/details/78864039)
+27. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[完美解决打开github速度慢的问题](https://www.cnblogs.com/yangzhou33/p/8407385.html)
