@@ -5,7 +5,7 @@
 1. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png) 《马背上的男孩》 by  路伯特·伊萨克森 -- 2017-01-25
 2. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png) 《向死而生》 by  李开复  -- 2017-02-10
 3. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)《自由独行》 by 贾平凹  -- 2017-02-13
-4. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/06.png) 《未来以来》 by 马云  -- 2017-06-16
+4. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png) 《未来以来》 by 马云  -- 2017-06-16
 4. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png) 《人工智能》 by 李开复  -- 2017-06-16
 5. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png) 《撒哈拉的故事》 by 三毛  -- 2018-06-18
 6. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png) 《解忧杂货店》 by 东野圭吾  -- 2018-08-08
