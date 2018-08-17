@@ -9,6 +9,7 @@
 4. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png) 《人工智能》 by 李开复  -- 2017-06-16
 5. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png) 《撒哈拉的故事》 by 三毛  -- 2018-06-18
 6. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png) 《解忧杂货店》 by 东野圭吾  -- 2018-08-08
+7. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png) 《北美小宇宙》 by 毕淑敏  -- 2018-08-17
 
 ## 技术文档
 1. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[Docker —— 从入门到实践](https://www.gitbook.com/book/yeasy/docker_practice/details)
