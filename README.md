@@ -72,3 +72,4 @@
 26. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[git远程分支与本地分支合并](https://blog.csdn.net/loongshawn/article/details/78864039)
 27. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[完美解决打开github速度慢的问题](https://www.cnblogs.com/yangzhou33/p/8407385.html)
 28. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[在Ubuntu|CentOS上安装Shutter截图工具及快捷键设置](https://www.jianshu.com/p/f8ab9d95fe4a)
+29. ![](http://pics.sc.chinaz.com/Files/pic/faces/2961/644.png)[mac下配置vim](https://blog.csdn.net/weixin_40539892/article/details/79252927)
