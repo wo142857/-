@@ -26,6 +26,8 @@
 
 2. cgdb 调试 nginx_rtmp
 
+   cgdb 中文手册 @[这里](<https://leeyiw.gitbooks.io/cgdb-manual-in-chinese/content/>)
+
    ```sh
    # nginx.conf
    daemon off;
