@@ -21,3 +21,6 @@ rsync -rv --exclude=.git demo demo_bkp
  LD_LIBRARY_PATH=/usr/local/lib
  export LD_LIBRARY_PATH
 ```
+
+### navicat 破解
+https://www.cnblogs.com/wei9593/p/11907307.html
