@@ -28,6 +28,9 @@ https://www.cnblogs.com/wei9593/p/11907307.html
 ### MySQL 安装
 https://juejin.im/post/5d07cf13f265da1bd522cfb6
 
+### HTTP 缓存
+https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching?hl=zh-cn
+
 ### 优秀的博客站点
 https://pdf.us/
 
