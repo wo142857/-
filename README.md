@@ -34,6 +34,9 @@ https://developers.google.com/web/fundamentals/performance/optimizing-content-ef
 ### H5 支付宝授权（deeplink）
 https://juejin.im/post/5e7acc4e5188255e1b09f0f3
 
+### HTTP 缓存
+https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/http-caching?hl=zh-cn
+
 ### 优秀的博客站点
 https://pdf.us/
 
